@@ -1,6 +1,6 @@
 # ISBN Validator
 
-This repository stores the assignments given as homework for the TECH HIRE bootcamp.
+
 
 
 # Introduction
